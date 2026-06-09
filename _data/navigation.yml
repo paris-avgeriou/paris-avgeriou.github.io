@@ -17,9 +17,6 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "In the News"
     url: /news/
 
@@ -31,7 +28,10 @@ main:
   
   - title: "PhD students"
     url: /phds/        
-  
+
+  - title: "Teaching"
+    url: /teaching/   
+    
   #- title: "Blog Posts"
   #  url: /year-archive/
     
