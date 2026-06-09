@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Short Bio
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Dr. Paris Avgeriou is Full Professor of Software Engineering in the [Bernoulli Institute for Mathematics, Computer Science and Artificial Intelligence](https://www.rug.nl/research/bernoulli/), [University of Groningen](http://www.rug.nl/), the Netherlands. He is the head of the [Software Engineering and Architecture (SEARCH)](https://www.cs.rug.nl/search/) research group since September 2006. He has been leading a number of research projects on software architecture, that are directly related to the European industry of Software-intensive systems. He is the Editor in Chief of the [Journal of Systems and Software](https://www.sciencedirect.com/journal/journal-of-systems-and-software), as well as an Associate Editor for [IEEE Software](https://www.computer.org/software-magazine/). He has acted as (co-)Chair for [ECSA 14](http://ecsa2014.cs.univie.ac.at/), [MTD 15](https://www.sei.cmu.edu/community/td2015/), [EuroPLoP 11](http://hillside.net/europlop/europlop2011/), [Tech Debt 19](https://2019.techdebtconf.org/), [ICSA 19](https://swk-www.informatik.uni-hamburg.de/~icsa2019/) and [ISAPS](https://www.lorentzcenter.nl/international-software-architecture-phd-school.html) 2017-2026. He is a senior member of IEEE, vice-chair of [VERSEN](https://www.versen.nl/), and a member of [IPN](https://ict-research.nl/), [ISERN](http://isern.iese.de/), and acts as a PC member and reviewer for several conferences and journals. He has received awards and distinctions for both teaching and research, is regularly invited to give keynotes and invited talks and has published more than 200 articles in peer-reviewed international journals, conference proceedings and books. His research interests lie in the area of software architecture, with strong emphasis on architecture modeling, knowledge, evolution, analytics and technical debt. He champions the evidence-based paradigm in Software Engineering research and works towards closing the gap between industry and academia.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Full CV
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+For more details, you can download my [full CV (in PDF)](http://paris-avgeriou.github.io/files/parisCV.pdf).
