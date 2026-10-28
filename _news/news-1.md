@@ -1,5 +1,5 @@
 ---
-title: "Intervew at the Leeuwarder Courant"
+title: "Interview at the Leeuwarder Courant"
 excerpt: "I was interviewed by a regional newspaper about my role as the Scientific Director of the new Engineering Doctorate program on Autonomous Systems.<br/><img src='/images/lc23-2-2024.jpg'>"
 collection: news
 ---
