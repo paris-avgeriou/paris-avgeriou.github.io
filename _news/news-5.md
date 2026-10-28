@@ -1,5 +1,5 @@
 ---
-title: "Intervew at RTV Noord"
+title: "Interview at RTV Noord"
 excerpt: "I was interviewed by a local TV network about the beginning of the Engineering Doctorate program on Autonomous Systems.<br/><img src='/images/rtvNoord.jpg'>"
 collection: news
 ---
