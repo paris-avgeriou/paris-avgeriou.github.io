@@ -1,5 +1,5 @@
 ---
-title: "Intervew at the NOMMER"
+title: "Interview at the NOMMER"
 excerpt: "I was interviewed for the NOMMER magazine, issued by the [NOM](https://www.nvnom.com/), the regional development company for Drenthe, Friesland and Groningen.<br/><img src='/images/nommer-jul24.jpg'>"
 collection: news
 ---
