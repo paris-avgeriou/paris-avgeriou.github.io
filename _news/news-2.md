@@ -1,5 +1,5 @@
 ---
-title: "Intervew at the Scholarly Communication podcast"
+title: "Interview at the Scholarly Communication podcast"
 excerpt: "I was interviewed with my role as Editor in Chief of the Journal of Systems and Software. The tile of the podcast episode was [Complex Work in Simple Text](https://newbooksnetwork.com/complex-work-in-simple-text)"
 collection: news
 ---
